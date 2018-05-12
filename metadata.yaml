@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9769
     wikipedia: http://en.wikipedia.org/wiki/Giorgio_Vasari
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26860#Lives-of-the-Most-Eminent-Painters-Sculptors-and-Architects-Vol.-03--of-10---13-Filarete-and-_
 gutenberg_issued: '2008-10-09'
 gutenberg_type: Text
 identifiers:
